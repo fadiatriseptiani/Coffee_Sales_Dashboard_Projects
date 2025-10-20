@@ -16,9 +16,9 @@ Excel: Data cleaning, processing, and visualizing.
 
 **Data Preparation**
 
-- Cleaned raw sales data to handle missing or inconsistent values
+- Cleaned raw sales data to handle missing or inconsistent values (XLOOKUP, INDEX, MATCH)
 - Standardized product categories and date formats
-- Created calculated fields for total revenue, profit, and average sales per region
+- Created calculated fields for total revenue and profit sales
 - Visualized data to built an interactive dashboard
 
 **Dashboard Overview**
