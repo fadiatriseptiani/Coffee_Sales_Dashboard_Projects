@@ -12,7 +12,7 @@ The goal is to transform raw sales data into actionable insights that help decis
 
 **Tools Used**
 
-Excel – Data cleaning, processing, and visualizing.
+Excel: Data cleaning, processing, and visualizing.
 
 **Data Preparation**
 
@@ -21,13 +21,24 @@ Excel – Data cleaning, processing, and visualizing.
 - Created calculated fields for total revenue, profit, and average sales per region
 - Visualized data to built an interactive dashboard
 
-** Dashboard Overview**
+**Dashboard Overview**
 
-- The dashboard includes several key pages and visuals:
+The dashboard includes several key pages and visual:
+
 - Sales Overview: Total sales trends over time
 - Top Products: Best-selling coffee items by roast type and size
-- Regional Performance: Comparison of sales across different regions
+- Sales by Country: Comparison of sales across different countries
 - Customer Insights: Analysis of top 5 customers
 
+**Key Insights**
 
+- Arabica and Liberica consistently outperform other coffee types, reaching the highest sales peaks—often above 700 USD in certain months.
+- The United States contributes the highest revenue overall.
+- Noticeable sales peaks occur mid-year (around May–July) and toward the end of the year (November–December). These trends may align with holiday seasons, promotional campaigns, or increased consumption periods.
 
+**Credits**
+This Coffee Sales Dashboard was built by following the tutorial from [Mo Chen on YouTube](https://www.youtube.com/@mo-chen) as part of my learning journey in data analytics.  
+The project helped me understand data modeling and dashboard design.
+
+Fadia Tri Septiani
+triseptianifadia@gmail.com
