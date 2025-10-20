@@ -37,8 +37,10 @@ The dashboard includes several key pages and visual:
 - Noticeable sales peaks occur mid-year (around May–July) and toward the end of the year (November–December). These trends may align with holiday seasons, promotional campaigns, or increased consumption periods.
 
 **Credits**
+
 This Coffee Sales Dashboard was built by following the tutorial from [Mo Chen on YouTube](https://www.youtube.com/@mo-chen) as part of my learning journey in data analytics.  
 The project helped me understand data modeling and dashboard design.
 
 Fadia Tri Septiani
+
 triseptianifadia@gmail.com
