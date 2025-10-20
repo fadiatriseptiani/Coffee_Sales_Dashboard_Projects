@@ -30,9 +30,9 @@ The dashboard includes several key pages and visual:
 - Sales by Country: Comparison of sales across different countries
 - Customer Insights: Analysis of top 5 customers
 
-**Key Insights**
+**Insights**
 
-- Arabica and Liberica consistently outperform other coffee types, reaching the highest sales peaks—often above 700 USD in certain months.
+- Arabica and Liberica consistently outperform other coffee types, reaching the highest sales peaks often above 700 USD in certain months.
 - The United States contributes the highest revenue overall.
 - Noticeable sales peaks occur mid-year (around May–July) and toward the end of the year (November–December). These trends may align with holiday seasons, promotional campaigns, or increased consumption periods.
 
